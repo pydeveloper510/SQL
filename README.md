@@ -10,3 +10,6 @@ WHERE UNDERLYING_TICKER=CONVERT(CHAR(20), 'AAPL US EQUITY')
 
 # Change Password
 Tools/User manager   ctrl + u
+
+
+insert into on duplicate key update
