@@ -33,7 +33,7 @@ port = 3306
 (data안에 파일이 생기지 않으면 다음 옵션을 추가한다)
 innodb_flush_method = normal
 
-4.win + X 명령프롬프트를 관리자권한으로 실행한다.
+4. win + X 명령프롬프트를 관리자권한으로 실행한다.
 
 D:\Work\web\mysql>cd bin
 
