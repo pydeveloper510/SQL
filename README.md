@@ -29,6 +29,7 @@ win + R control 입력 시스템 ->고급시스템설정 ->고급탭의 환경�
 basedir = D:/Work/mysql
 datador = D:/Work/mysql/data
 port = 3306
+(3 번부분 없어도 된다고 듣었는데 확인 못함)
 
 (data안에 파일이 생기지 않으면 다음 옵션을 추가한다)
 innodb_flush_method = normal
