@@ -70,3 +70,9 @@ sqlyog 에서 사용자가 지정한 암호를 입력하고 들어가 편집할�
 
 my.ini 화일 인코딩 옵션 다시 확인할것
 cmd 창을 관리자권한으로 실행하여야 한다.  ***
+
+# uninstall 
+win + R cmd as Administrator 
+
+``` Net stop mysql_oracle ```
+``` Sc delete mysql_oralce ```
